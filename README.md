@@ -12,3 +12,8 @@ I thought that this article was interesting since it specifically analyzed the l
 ## Gurumeher Sawhney
 
 I was interested in this article because it spoke more about the human capital portion of software engineering. The concept of "being fully Agile" and decentralized versus centralized chain of command was something that us software engineering students can consider before entering the work force.
+
+
+## Jack Xu
+
+The role of leadership and the role of Agile seems to be interrelated in the article. Personally, I think these are separate issues when it comes to programming. There can be leadership assumed even when in the programming phase there is no actual hierarchy. 
